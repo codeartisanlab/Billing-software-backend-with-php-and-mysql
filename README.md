@@ -1,4 +1,4 @@
-<p>Hi Guys, Welcome to #CodeArtisanLab. In this video🎬, We will create billing software with #php, #mysql and #bootstrap5.This is complete project and i hope it will help you to enhance your knowledge and it can be use in real world too.</p>
+<p>Hi Guys, Welcome to #CodeArtisanLab. In this video 🎬, We will create billing software with #php, #mysql and #bootstrap5. This is complete project and i hope it will help you to enhance your knowledge and it can be use in real world too.</p>
 
 <h4>Following are the main features of this project 💪💪</h4>
 <hr/>
